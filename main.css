@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2? family=IM+Fell+Great+Primer+SC&family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,400;1,600&display=swap');
+
+h1 {
+    font-family: "Roboto Mono", monoespacio;
+    font-size: 4.5rem;
+    font-weight: bold;
+    color: rgb(233, 137, 3);
+    text-align: center;
+}
+
+.logotipo {
+    text-align: center;
+}
+
+button {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2.5px 7.5px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+
+}
+
+button:hover {
+    background-color: rgb(233, 137, 3);
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    font-color: rgb(233, 137, 3);
+}
+
+p {
+    font-family: "Roboto Mono", monoespacio;
+    font-size: 1.5rem;
+    font-weight: bold;
+}

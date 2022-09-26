@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Remera Chuy",
+    "desc": "Remera negra 100% algodón con ilustración estampada.",
+    "precio": 2800,
+    "url": "assets/chuy.png"
+  },
+  {
+    "id": 2,
+    "title": "Remera El Amor",
+    "desc": "Remera negra 100% algodón con ilustración estampada.",
+    "precio": 2800,
+    "url": "assets/elamor.png"
+  },
+  {
+    "id": 3,
+    "title": "Remera Sirena Vampiro",
+    "desc": "Remera negra 100% algodón con ilustración estampada.",
+    "precio": 2800,
+    "url": "assets/sirenavampiro.png"
+  },
+  {
+    "id": 4,
+    "title": "Remera Niebla Rosada",
+    "desc": "Remera negra 100% algodón con ilustración estampada.",
+    "precio": 2800,
+    "url": "assets/nieblarosada.png"
+  },
+  {
+    "id": 5,
+    "title": "Remera Demonio Paraguayo",
+    "desc": "Remera negra 100% algodón con ilustración estampada.",
+    "precio": 2800,
+    "url": "assets/demonioparaguayo.png"
+  },
+  {
+    "id": 6,
+    "title": "Remera Vino en cartón",
+    "desc": "Remera negra 100% algodón con ilustración estampada.",
+    "precio": 2800,
+    "url": "assets/vinoencartón.png"
+  },
+  {
+    "id": 7,
+    "title": "Remera Tuy",
+    "desc": "Remera negra 100% algodón con ilustración estampada.",
+    "precio": 2800,
+    "url": "assets/demonioparaguayo.png"
+  },
+  {
+    "id": 8,
+    "title": "Remera Once",
+    "desc": "Remera negra 100% algodón con ilustración estampada.",
+    "precio": 2800,
+    "url": "assets/once.png"
+  },
+  {
+    "id": 9,
+    "title": "Remera Los Tabaleros",
+    "desc": "Remera negra 100% algodón con ilustración estampada.",
+    "precio": 2800,
+    "url": "assets/lostaba.png"
+  }
+]
